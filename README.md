@@ -4,7 +4,7 @@ Below is a list of my certifications and achievements. Click on the images to vi
 
 ## International Youth Math Challenge 2022
 
-![Top 5% IYMC 2022.pdf]
+[Top 5% IYMC 2022](Top 5% IYMC 2022.pdf)
 
 *Final round participant of IYMC 2022 and achieve top 5% of the competition*
 
