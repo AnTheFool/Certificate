@@ -11,6 +11,7 @@ Below is a list of my certifications and achievements. Click on the images to vi
 ## DAZONE 2023
 
 [TOP 8 DAZONE 2023.pdf](https://github.com/AnTheFool/Certificate/blob/main/TOP%208%20DAZONE%202023.pdf)
+
 *Top 8 team of DAZONE 2023 - a data analysis competition of Foreign Trade University - Ho Chi Minh City Campus*
 
 ## BRONZE MEDAL - Informatics Olympiad for Students (non-tech section)
